@@ -1,0 +1,501 @@
+date,dish,day,temp,holiday,previous_sales
+2025-01-01,Cheese Garlic Bread,Wednesday,35,No,112
+2025-01-02,Bruschetta,Thursday,33,No,63
+2025-01-03,Pasta Arrabbiata,Friday,40,No,67
+2025-01-04,Iced Tea,Saturday,38,No,77
+2025-01-05,Cream of Broccoli Soup,Sunday,40,Yes,116
+2025-01-06,Mac and Cheese,Monday,29,Yes,119
+2025-01-07,Nachos with Cheese,Tuesday,37,Yes,77
+2025-01-08,Lasagna Primavera,Wednesday,32,No,69
+2025-01-09,Mushroom Risotto,Thursday,17,No,67
+2025-01-10,Cream of Broccoli Soup,Friday,17,Yes,124
+2025-01-11,Pasta Alfredo,Saturday,32,No,125
+2025-01-12,Cheesecake,Sunday,23,Yes,180
+2025-01-13,Mushroom Soup,Monday,21,Yes,150
+2025-01-14,Chocolate Brownie,Tuesday,22,Yes,115
+2025-01-15,Grilled Vegetable Sandwich,Wednesday,31,Yes,146
+2025-01-16,Grilled Vegetable Sandwich,Thursday,27,Yes,134
+2025-01-17,Tiramisu,Friday,39,No,67
+2025-01-18,Caesar Salad,Saturday,21,No,95
+2025-01-19,Garden Fresh Salad,Sunday,24,Yes,180
+2025-01-20,Chocolate Brownie,Monday,32,Yes,145
+2025-01-21,Cheesecake,Tuesday,22,Yes,118
+2025-01-22,Club Sandwich Veg,Wednesday,26,No,52
+2025-01-23,Veg Quesadilla,Thursday,34,Yes,119
+2025-01-24,Grilled Cheese Sandwich,Friday,24,Yes,168
+2025-01-25,Cold Coffee,Saturday,16,No,152
+2025-01-26,Mushroom Soup,Sunday,36,No,61
+2025-01-27,Veg Burger,Monday,30,Yes,137
+2025-01-28,Veggie Supreme Pizza,Tuesday,27,No,111
+2025-01-29,Pasta Arrabbiata,Wednesday,20,No,59
+2025-01-30,Veg Quesadilla,Thursday,20,Yes,174
+2025-01-31,Caesar Salad,Friday,23,No,66
+2025-02-01,Club Sandwich Veg,Saturday,18,No,89
+2025-02-02,Cheesecake,Sunday,18,No,106
+2025-02-03,Lasagna Primavera,Monday,21,Yes,101
+2025-02-04,Bruschetta,Tuesday,20,No,70
+2025-02-05,Pasta Alfredo,Wednesday,23,No,102
+2025-02-06,Pancakes,Thursday,20,Yes,195
+2025-02-07,Mushroom Soup,Friday,38,No,109
+2025-02-08,Club Sandwich Veg,Saturday,22,No,161
+2025-02-09,Mushroom Soup,Sunday,20,No,158
+2025-02-10,Margherita Pizza,Monday,27,No,87
+2025-02-11,Grilled Vegetable Sandwich,Tuesday,39,Yes,109
+2025-02-12,Tiramisu,Wednesday,33,No,95
+2025-02-13,Cheesecake,Thursday,16,Yes,93
+2025-02-14,Bruschetta,Friday,24,Yes,148
+2025-02-15,Margherita Pizza,Saturday,34,No,91
+2025-02-16,Pasta Alfredo,Sunday,39,Yes,124
+2025-02-17,Cream of Broccoli Soup,Monday,29,No,117
+2025-02-18,Club Sandwich Veg,Tuesday,33,No,77
+2025-02-19,Nachos with Cheese,Wednesday,22,No,64
+2025-02-20,Veg Risotto,Thursday,18,Yes,155
+2025-02-21,Nachos with Cheese,Friday,38,Yes,114
+2025-02-22,Caesar Salad,Saturday,23,No,116
+2025-02-23,Pesto Pasta,Sunday,38,Yes,192
+2025-02-24,Chocolate Brownie,Monday,38,No,40
+2025-02-25,Lemonade,Tuesday,34,No,85
+2025-02-26,Mushroom Soup,Wednesday,21,Yes,140
+2025-02-27,Veg Burger,Thursday,25,No,44
+2025-02-28,Mac and Cheese,Friday,36,Yes,90
+2025-03-01,Caesar Salad,Saturday,19,No,119
+2025-03-02,Veg Lasagna,Sunday,37,Yes,199
+2025-03-03,Tiramisu,Monday,22,Yes,101
+2025-03-04,Mushroom Risotto,Tuesday,20,No,95
+2025-03-05,Waffles,Wednesday,26,No,45
+2025-03-06,Chocolate Brownie,Thursday,23,No,104
+2025-03-07,Veggie Supreme Pizza,Friday,21,Yes,87
+2025-03-08,Nachos with Cheese,Saturday,31,Yes,179
+2025-03-09,Veg Burger,Sunday,29,Yes,158
+2025-03-10,Cold Coffee,Monday,17,No,56
+2025-03-11,Pasta Alfredo,Tuesday,22,No,66
+2025-03-12,Garden Fresh Salad,Wednesday,38,Yes,134
+2025-03-13,Cold Coffee,Thursday,33,No,95
+2025-03-14,Pancakes,Friday,22,No,97
+2025-03-15,Pesto Pasta,Saturday,23,No,151
+2025-03-16,Bruschetta,Sunday,20,Yes,185
+2025-03-17,Mushroom Soup,Monday,18,Yes,101
+2025-03-18,Fresh Fruit Smoothie,Tuesday,36,No,91
+2025-03-19,Cheese Garlic Bread,Wednesday,25,Yes,138
+2025-03-20,Bruschetta,Thursday,32,Yes,131
+2025-03-21,Chocolate Brownie,Friday,16,No,72
+2025-03-22,Bruschetta,Saturday,30,Yes,189
+2025-03-23,Cold Coffee,Sunday,27,Yes,146
+2025-03-24,Iced Tea,Monday,21,Yes,122
+2025-03-25,Garden Fresh Salad,Tuesday,40,Yes,113
+2025-03-26,Pasta Arrabbiata,Wednesday,17,No,86
+2025-03-27,Pesto Pasta,Thursday,23,Yes,168
+2025-03-28,Veg Burger,Friday,21,No,117
+2025-03-29,Veg Risotto,Saturday,34,No,91
+2025-03-30,Waffles,Sunday,36,Yes,135
+2025-03-31,Tomato Basil Soup,Monday,36,No,71
+2025-04-01,Veg Burger,Tuesday,22,No,116
+2025-04-02,Veggie Supreme Pizza,Wednesday,35,Yes,107
+2025-04-03,Veg Burger,Thursday,31,Yes,153
+2025-04-04,Bruschetta,Friday,23,No,93
+2025-04-05,Pesto Pasta,Saturday,19,No,108
+2025-04-06,Veg Burger,Sunday,19,No,112
+2025-04-07,Pasta Arrabbiata,Monday,21,No,83
+2025-04-08,Margherita Pizza,Tuesday,36,Yes,145
+2025-04-09,Waffles,Wednesday,21,Yes,146
+2025-04-10,Garden Fresh Salad,Thursday,39,No,58
+2025-04-11,Grilled Cheese Sandwich,Friday,40,Yes,149
+2025-04-12,Lasagna Primavera,Saturday,27,Yes,198
+2025-04-13,Margherita Pizza,Sunday,32,Yes,228
+2025-04-14,Veg Quesadilla,Monday,16,Yes,86
+2025-04-15,Iced Tea,Tuesday,26,No,40
+2025-04-16,Fresh Fruit Smoothie,Wednesday,19,Yes,107
+2025-04-17,Grilled Vegetable Sandwich,Thursday,24,Yes,163
+2025-04-18,Margherita Pizza,Friday,33,Yes,170
+2025-04-19,Cheese Garlic Bread,Saturday,21,No,124
+2025-04-20,Mushroom Risotto,Sunday,36,Yes,176
+2025-04-21,Club Sandwich Veg,Monday,16,No,105
+2025-04-22,Lasagna Primavera,Tuesday,27,No,65
+2025-04-23,Veg Burger,Wednesday,21,Yes,116
+2025-04-24,Farmhouse Pizza,Thursday,25,Yes,106
+2025-04-25,Mushroom Soup,Friday,30,No,58
+2025-04-26,Farmhouse Pizza,Saturday,22,No,65
+2025-04-27,Garden Fresh Salad,Sunday,19,No,77
+2025-04-28,Mac and Cheese,Monday,36,No,41
+2025-04-29,Bruschetta,Tuesday,18,No,62
+2025-04-30,Nachos with Cheese,Wednesday,17,Yes,174
+2025-05-01,Pasta Arrabbiata,Thursday,37,No,38
+2025-05-02,Lemonade,Friday,24,No,103
+2025-05-03,Cheese Garlic Bread,Saturday,30,No,151
+2025-05-04,Cheesecake,Sunday,24,No,169
+2025-05-05,Veg Lasagna,Monday,28,No,110
+2025-05-06,Lasagna Primavera,Tuesday,19,Yes,149
+2025-05-07,Pasta Alfredo,Wednesday,30,No,94
+2025-05-08,Lasagna Primavera,Thursday,33,No,42
+2025-05-09,Mushroom Risotto,Friday,31,Yes,170
+2025-05-10,Fresh Fruit Smoothie,Saturday,22,No,125
+2025-05-11,Grilled Cheese Sandwich,Sunday,17,No,127
+2025-05-12,Veg Risotto,Monday,21,No,53
+2025-05-13,Greek Salad,Tuesday,20,No,118
+2025-05-14,Pesto Pasta,Wednesday,34,No,100
+2025-05-15,Grilled Vegetable Sandwich,Thursday,35,Yes,130
+2025-05-16,Pancakes,Friday,40,No,40
+2025-05-17,Pasta Alfredo,Saturday,23,No,87
+2025-05-18,Cream of Broccoli Soup,Sunday,16,No,97
+2025-05-19,Chocolate Brownie,Monday,33,Yes,98
+2025-05-20,Tiramisu,Tuesday,34,Yes,141
+2025-05-21,Pancakes,Wednesday,15,No,90
+2025-05-22,Grilled Vegetable Sandwich,Thursday,35,Yes,118
+2025-05-23,Bruschetta,Friday,21,Yes,124
+2025-05-24,Cream of Broccoli Soup,Saturday,23,No,104
+2025-05-25,Cheesecake,Sunday,30,No,91
+2025-05-26,Lemonade,Monday,39,Yes,109
+2025-05-27,Caesar Salad,Tuesday,21,No,86
+2025-05-28,Veg Burger,Wednesday,20,No,105
+2025-05-29,Greek Salad,Thursday,40,Yes,127
+2025-05-30,Chocolate Brownie,Friday,29,No,62
+2025-05-31,Caesar Salad,Saturday,34,Yes,129
+2025-06-01,Veg Burger,Sunday,35,No,101
+2025-06-02,Lasagna Primavera,Monday,19,Yes,116
+2025-06-03,Tomato Basil Soup,Tuesday,25,No,107
+2025-06-04,Veggie Supreme Pizza,Wednesday,19,No,58
+2025-06-05,Club Sandwich Veg,Thursday,18,Yes,177
+2025-06-06,Veg Lasagna,Friday,23,Yes,172
+2025-06-07,Pasta Arrabbiata,Saturday,26,Yes,129
+2025-06-08,Iced Tea,Sunday,27,No,72
+2025-06-09,Iced Tea,Monday,33,Yes,100
+2025-06-10,Tiramisu,Tuesday,32,No,108
+2025-06-11,Lemonade,Wednesday,25,No,76
+2025-06-12,Greek Salad,Thursday,25,Yes,109
+2025-06-13,Veg Risotto,Friday,16,Yes,167
+2025-06-14,Chocolate Brownie,Saturday,25,No,93
+2025-06-15,Mushroom Risotto,Sunday,31,No,140
+2025-06-16,Tiramisu,Monday,15,No,111
+2025-06-17,Veggie Supreme Pizza,Tuesday,21,No,87
+2025-06-18,Veg Lasagna,Wednesday,27,Yes,159
+2025-06-19,Mac and Cheese,Thursday,23,Yes,157
+2025-06-20,Veggie Supreme Pizza,Friday,25,No,73
+2025-06-21,Margherita Pizza,Saturday,33,Yes,129
+2025-06-22,Pasta Alfredo,Sunday,26,No,115
+2025-06-23,Pancakes,Monday,26,No,65
+2025-06-24,Tomato Basil Soup,Tuesday,20,Yes,141
+2025-06-25,Cheese Garlic Bread,Wednesday,18,No,109
+2025-06-26,Paneer Burger,Thursday,22,Yes,106
+2025-06-27,Waffles,Friday,19,No,81
+2025-06-28,Tiramisu,Saturday,26,No,107
+2025-06-29,Greek Salad,Sunday,24,No,154
+2025-06-30,Farmhouse Pizza,Monday,20,Yes,166
+2025-07-01,Pesto Pasta,Tuesday,22,Yes,141
+2025-07-02,Cold Coffee,Wednesday,22,No,71
+2025-07-03,Farmhouse Pizza,Thursday,24,No,74
+2025-07-04,Lasagna Primavera,Friday,31,Yes,163
+2025-07-05,Farmhouse Pizza,Saturday,27,No,97
+2025-07-06,Nachos with Cheese,Sunday,16,No,119
+2025-07-07,Lemonade,Monday,30,Yes,171
+2025-07-08,Greek Salad,Tuesday,17,No,94
+2025-07-09,Grilled Vegetable Sandwich,Wednesday,29,No,104
+2025-07-10,Club Sandwich Veg,Thursday,17,No,80
+2025-07-11,Fresh Fruit Smoothie,Friday,21,No,118
+2025-07-12,Nachos with Cheese,Saturday,19,No,100
+2025-07-13,Mushroom Soup,Sunday,32,No,115
+2025-07-14,Veg Quesadilla,Monday,19,No,75
+2025-07-15,Pasta Alfredo,Tuesday,35,No,46
+2025-07-16,Waffles,Wednesday,37,Yes,174
+2025-07-17,Nachos with Cheese,Thursday,17,Yes,196
+2025-07-18,Farmhouse Pizza,Friday,17,No,110
+2025-07-19,Grilled Vegetable Sandwich,Saturday,40,Yes,168
+2025-07-20,Mushroom Soup,Sunday,39,No,142
+2025-07-21,Cold Coffee,Monday,36,Yes,114
+2025-07-22,Margherita Pizza,Tuesday,20,Yes,84
+2025-07-23,Farmhouse Pizza,Wednesday,32,Yes,85
+2025-07-24,Fresh Fruit Smoothie,Thursday,37,Yes,121
+2025-07-25,Lasagna Primavera,Friday,26,Yes,140
+2025-07-26,Pesto Pasta,Saturday,31,Yes,175
+2025-07-27,Nachos with Cheese,Sunday,35,No,78
+2025-07-28,Veggie Supreme Pizza,Monday,40,Yes,155
+2025-07-29,Farmhouse Pizza,Tuesday,37,No,93
+2025-07-30,Veg Lasagna,Wednesday,22,No,83
+2025-07-31,Pasta Arrabbiata,Thursday,29,No,99
+2025-08-01,Veggie Supreme Pizza,Friday,34,No,80
+2025-08-02,Mushroom Risotto,Saturday,31,Yes,129
+2025-08-03,French Fries,Sunday,21,Yes,128
+2025-08-04,Grilled Cheese Sandwich,Monday,17,Yes,126
+2025-08-05,Club Sandwich Veg,Tuesday,15,No,101
+2025-08-06,Cheese Garlic Bread,Wednesday,38,No,97
+2025-08-07,Pesto Pasta,Thursday,16,Yes,116
+2025-08-08,Tomato Basil Soup,Friday,16,No,64
+2025-08-09,Grilled Cheese Sandwich,Saturday,31,No,135
+2025-08-10,Garden Fresh Salad,Sunday,24,No,95
+2025-08-11,Pancakes,Monday,30,Yes,102
+2025-08-12,Tomato Basil Soup,Tuesday,22,No,102
+2025-08-13,Grilled Vegetable Sandwich,Wednesday,36,Yes,175
+2025-08-14,Veg Risotto,Thursday,36,Yes,160
+2025-08-15,Grilled Vegetable Sandwich,Friday,21,Yes,140
+2025-08-16,Cheese Garlic Bread,Saturday,27,Yes,150
+2025-08-17,Waffles,Sunday,32,No,102
+2025-08-18,Cheesecake,Monday,22,No,92
+2025-08-19,Pancakes,Tuesday,25,No,52
+2025-08-20,Lemonade,Wednesday,30,Yes,146
+2025-08-21,Farmhouse Pizza,Thursday,31,No,100
+2025-08-22,Mushroom Soup,Friday,40,No,34
+2025-08-23,Greek Salad,Saturday,27,No,83
+2025-08-24,Grilled Cheese Sandwich,Sunday,15,No,112
+2025-08-25,Cheesecake,Monday,23,No,106
+2025-08-26,Veg Risotto,Tuesday,17,Yes,130
+2025-08-27,Pasta Alfredo,Wednesday,30,No,86
+2025-08-28,Fresh Fruit Smoothie,Thursday,38,No,33
+2025-08-29,Lasagna Primavera,Friday,18,No,84
+2025-08-30,Grilled Vegetable Sandwich,Saturday,28,No,118
+2025-08-31,Pesto Pasta,Sunday,38,No,60
+2025-09-01,Bruschetta,Monday,39,Yes,164
+2025-09-02,Fresh Fruit Smoothie,Tuesday,31,Yes,146
+2025-09-03,Cheese Garlic Bread,Wednesday,31,Yes,122
+2025-09-04,Pesto Pasta,Thursday,29,Yes,174
+2025-09-05,Pasta Arrabbiata,Friday,39,Yes,127
+2025-09-06,Club Sandwich Veg,Saturday,34,No,169
+2025-09-07,Cheese Garlic Bread,Sunday,27,Yes,173
+2025-09-08,Caesar Salad,Monday,39,Yes,95
+2025-09-09,Garden Fresh Salad,Tuesday,23,Yes,82
+2025-09-10,Pancakes,Wednesday,29,Yes,107
+2025-09-11,Club Sandwich Veg,Thursday,30,No,69
+2025-09-12,Greek Salad,Friday,30,Yes,174
+2025-09-13,Greek Salad,Saturday,31,Yes,185
+2025-09-14,Pancakes,Sunday,17,Yes,114
+2025-09-15,French Fries,Monday,27,No,119
+2025-09-16,Bruschetta,Tuesday,18,No,65
+2025-09-17,Tiramisu,Wednesday,23,No,46
+2025-09-18,Cheese Garlic Bread,Thursday,34,Yes,97
+2025-09-19,Pasta Alfredo,Friday,40,Yes,90
+2025-09-20,Veg Quesadilla,Saturday,29,Yes,197
+2025-09-21,Chocolate Brownie,Sunday,33,No,106
+2025-09-22,Veg Lasagna,Monday,22,No,119
+2025-09-23,Veg Risotto,Tuesday,35,No,118
+2025-09-24,Chocolate Brownie,Wednesday,33,No,49
+2025-09-25,Waffles,Thursday,36,No,39
+2025-09-26,Paneer Burger,Friday,37,Yes,101
+2025-09-27,Veg Burger,Saturday,18,Yes,210
+2025-09-28,Farmhouse Pizza,Sunday,17,Yes,166
+2025-09-29,Cheesecake,Monday,32,Yes,125
+2025-09-30,Fresh Fruit Smoothie,Tuesday,28,Yes,153
+2025-10-01,Tiramisu,Wednesday,26,Yes,187
+2025-10-02,Veggie Supreme Pizza,Thursday,24,No,66
+2025-10-03,Veg Burger,Friday,22,Yes,173
+2025-10-04,Fresh Fruit Smoothie,Saturday,26,No,152
+2025-10-05,Mushroom Risotto,Sunday,25,No,105
+2025-10-06,Chocolate Brownie,Monday,18,No,52
+2025-10-07,Club Sandwich Veg,Tuesday,36,Yes,115
+2025-10-08,Pasta Alfredo,Wednesday,27,Yes,198
+2025-10-09,Chocolate Brownie,Thursday,39,Yes,98
+2025-10-10,Pancakes,Friday,20,Yes,165
+2025-10-11,Cheese Garlic Bread,Saturday,38,Yes,148
+2025-10-12,Lemonade,Sunday,39,No,66
+2025-10-13,Bruschetta,Monday,29,No,89
+2025-10-14,Veg Risotto,Tuesday,18,Yes,107
+2025-10-15,Greek Salad,Wednesday,26,No,102
+2025-10-16,Pesto Pasta,Thursday,30,Yes,137
+2025-10-17,Mac and Cheese,Friday,31,No,115
+2025-10-18,Garden Fresh Salad,Saturday,22,No,102
+2025-10-19,Cheesecake,Sunday,33,No,147
+2025-10-20,Pesto Pasta,Monday,35,Yes,132
+2025-10-21,Veg Burger,Tuesday,15,Yes,111
+2025-10-22,Lasagna Primavera,Wednesday,38,Yes,93
+2025-10-23,Chocolate Brownie,Thursday,15,Yes,96
+2025-10-24,Veggie Supreme Pizza,Friday,26,No,115
+2025-10-25,Cold Coffee,Saturday,31,Yes,140
+2025-10-26,Cream of Broccoli Soup,Sunday,33,Yes,225
+2025-10-27,Cheesecake,Monday,21,No,45
+2025-10-28,Veg Risotto,Tuesday,26,Yes,124
+2025-10-29,Mushroom Soup,Wednesday,15,Yes,131
+2025-10-30,Lasagna Primavera,Thursday,27,Yes,128
+2025-10-31,Farmhouse Pizza,Friday,19,No,42
+2025-11-01,Margherita Pizza,Saturday,40,Yes,130
+2025-11-02,Tomato Basil Soup,Sunday,40,Yes,140
+2025-11-03,Veggie Supreme Pizza,Monday,33,No,104
+2025-11-04,Grilled Cheese Sandwich,Tuesday,24,Yes,108
+2025-11-05,Tiramisu,Wednesday,17,Yes,126
+2025-11-06,Tiramisu,Thursday,20,Yes,105
+2025-11-07,Mac and Cheese,Friday,37,No,79
+2025-11-08,Pasta Arrabbiata,Saturday,18,Yes,146
+2025-11-09,Pancakes,Sunday,25,Yes,176
+2025-11-10,Pasta Alfredo,Monday,21,Yes,90
+2025-11-11,Lemonade,Tuesday,26,No,69
+2025-11-12,Mushroom Risotto,Wednesday,32,No,110
+2025-11-13,Cheese Garlic Bread,Thursday,39,Yes,181
+2025-11-14,Cream of Broccoli Soup,Friday,27,Yes,122
+2025-11-15,Mac and Cheese,Saturday,24,No,131
+2025-11-16,Pasta Arrabbiata,Sunday,30,No,140
+2025-11-17,Caesar Salad,Monday,24,Yes,91
+2025-11-18,Grilled Cheese Sandwich,Tuesday,38,Yes,187
+2025-11-19,Veg Burger,Wednesday,26,No,65
+2025-11-20,Garden Fresh Salad,Thursday,25,No,117
+2025-11-21,Club Sandwich Veg,Friday,39,No,47
+2025-11-22,Veg Risotto,Saturday,23,No,92
+2025-11-23,Veg Lasagna,Sunday,29,No,129
+2025-11-24,Veg Quesadilla,Monday,17,No,61
+2025-11-25,Mac and Cheese,Tuesday,17,No,80
+2025-11-26,Mushroom Risotto,Wednesday,29,No,100
+2025-11-27,Iced Tea,Thursday,18,Yes,122
+2025-11-28,Pancakes,Friday,15,No,68
+2025-11-29,Lasagna Primavera,Saturday,21,Yes,143
+2025-11-30,Mushroom Risotto,Sunday,27,No,131
+2025-12-01,Waffles,Monday,39,Yes,151
+2025-12-02,Nachos with Cheese,Tuesday,36,Yes,113
+2025-12-03,Veg Risotto,Wednesday,29,Yes,146
+2025-12-04,Iced Tea,Thursday,20,No,56
+2025-12-05,Mac and Cheese,Friday,28,Yes,145
+2025-12-06,Garden Fresh Salad,Saturday,21,Yes,157
+2025-12-07,Fresh Fruit Smoothie,Sunday,17,No,88
+2025-12-08,Cheese Garlic Bread,Monday,22,No,68
+2025-12-09,Cheese Garlic Bread,Tuesday,27,Yes,130
+2025-12-10,Bruschetta,Wednesday,26,No,105
+2025-12-11,Waffles,Thursday,38,Yes,161
+2025-12-12,Grilled Cheese Sandwich,Friday,37,No,99
+2025-12-13,Paneer Burger,Saturday,26,No,126
+2025-12-14,Veg Risotto,Sunday,20,No,91
+2025-12-15,Paneer Burger,Monday,18,No,116
+2025-12-16,Cream of Broccoli Soup,Tuesday,26,No,116
+2025-12-17,Cream of Broccoli Soup,Wednesday,32,Yes,94
+2025-12-18,Waffles,Thursday,18,No,52
+2025-12-19,Pesto Pasta,Friday,33,No,76
+2025-12-20,Cheese Garlic Bread,Saturday,19,No,117
+2025-12-21,Pasta Arrabbiata,Sunday,28,No,87
+2025-12-22,Farmhouse Pizza,Monday,18,Yes,162
+2025-12-23,Lemonade,Tuesday,37,No,80
+2025-12-24,Veg Risotto,Wednesday,24,Yes,121
+2025-12-25,Pesto Pasta,Thursday,34,Yes,166
+2025-12-26,Pesto Pasta,Friday,20,No,73
+2025-12-27,Pasta Alfredo,Saturday,22,Yes,162
+2025-12-28,Veg Quesadilla,Sunday,38,Yes,135
+2025-12-29,Caesar Salad,Monday,37,No,92
+2025-12-30,Pesto Pasta,Tuesday,25,Yes,138
+2025-12-31,Lemonade,Wednesday,17,Yes,160
+2026-01-01,Greek Salad,Thursday,34,Yes,162
+2026-01-02,Waffles,Friday,30,Yes,131
+2026-01-03,Nachos with Cheese,Saturday,37,Yes,164
+2026-01-04,Bruschetta,Sunday,22,No,142
+2026-01-05,Margherita Pizza,Monday,38,No,99
+2026-01-06,Tiramisu,Tuesday,36,Yes,105
+2026-01-07,Grilled Vegetable Sandwich,Wednesday,34,No,117
+2026-01-08,Grilled Vegetable Sandwich,Thursday,33,No,53
+2026-01-09,Cream of Broccoli Soup,Friday,17,No,65
+2026-01-10,Veg Quesadilla,Saturday,16,No,109
+2026-01-11,Pancakes,Sunday,35,Yes,139
+2026-01-12,Greek Salad,Monday,35,Yes,136
+2026-01-13,Veg Lasagna,Tuesday,17,Yes,134
+2026-01-14,Veg Quesadilla,Wednesday,33,Yes,117
+2026-01-15,Mac and Cheese,Thursday,30,Yes,183
+2026-01-16,Lemonade,Friday,24,Yes,118
+2026-01-17,Nachos with Cheese,Saturday,30,Yes,179
+2026-01-18,Cold Coffee,Sunday,39,Yes,196
+2026-01-19,Mac and Cheese,Monday,38,No,56
+2026-01-20,Pasta Arrabbiata,Tuesday,22,Yes,103
+2026-01-21,Grilled Cheese Sandwich,Wednesday,28,No,107
+2026-01-22,Veggie Supreme Pizza,Thursday,39,No,31
+2026-01-23,Greek Salad,Friday,40,Yes,141
+2026-01-24,Grilled Cheese Sandwich,Saturday,36,Yes,210
+2026-01-25,Cheese Garlic Bread,Sunday,36,No,118
+2026-01-26,Club Sandwich Veg,Monday,23,No,76
+2026-01-27,Pesto Pasta,Tuesday,30,No,110
+2026-01-28,Grilled Cheese Sandwich,Wednesday,29,No,119
+2026-01-29,Veg Burger,Thursday,28,Yes,123
+2026-01-30,Nachos with Cheese,Friday,30,No,109
+2026-01-31,Pesto Pasta,Saturday,20,Yes,183
+2026-02-01,Veggie Supreme Pizza,Sunday,36,Yes,158
+2026-02-02,Mushroom Soup,Monday,27,Yes,123
+2026-02-03,Grilled Vegetable Sandwich,Tuesday,29,No,93
+2026-02-04,French Fries,Wednesday,21,Yes,126
+2026-02-05,Margherita Pizza,Thursday,15,No,88
+2026-02-06,Pancakes,Friday,32,No,83
+2026-02-07,Farmhouse Pizza,Saturday,15,Yes,170
+2026-02-08,Greek Salad,Sunday,38,Yes,112
+2026-02-09,Veg Risotto,Monday,37,Yes,76
+2026-02-10,Grilled Cheese Sandwich,Tuesday,37,No,33
+2026-02-11,Pasta Arrabbiata,Wednesday,31,Yes,158
+2026-02-12,Pesto Pasta,Thursday,40,Yes,110
+2026-02-13,Farmhouse Pizza,Friday,16,Yes,144
+2026-02-14,Margherita Pizza,Saturday,36,Yes,112
+2026-02-15,Club Sandwich Veg,Sunday,34,Yes,131
+2026-02-16,Farmhouse Pizza,Monday,24,No,63
+2026-02-17,Veg Lasagna,Tuesday,40,Yes,141
+2026-02-18,Tomato Basil Soup,Wednesday,20,No,116
+2026-02-19,Veg Risotto,Thursday,21,No,107
+2026-02-20,Veg Lasagna,Friday,24,No,52
+2026-02-21,Veg Burger,Saturday,22,No,104
+2026-02-22,Grilled Vegetable Sandwich,Sunday,22,No,166
+2026-02-23,Pesto Pasta,Monday,39,Yes,111
+2026-02-24,Fresh Fruit Smoothie,Tuesday,16,Yes,179
+2026-02-25,Pancakes,Wednesday,37,Yes,130
+2026-02-26,Greek Salad,Thursday,16,Yes,107
+2026-02-27,Club Sandwich Veg,Friday,27,Yes,159
+2026-02-28,Garden Fresh Salad,Saturday,28,Yes,177
+2026-03-01,Chocolate Brownie,Sunday,40,No,92
+2026-03-02,Bruschetta,Monday,25,No,75
+2026-03-03,Garden Fresh Salad,Tuesday,18,Yes,145
+2026-03-04,Cream of Broccoli Soup,Wednesday,19,No,94
+2026-03-05,Nachos with Cheese,Thursday,26,No,90
+2026-03-06,Garden Fresh Salad,Friday,28,No,115
+2026-03-07,Greek Salad,Saturday,24,Yes,181
+2026-03-08,Waffles,Sunday,15,No,135
+2026-03-09,Veg Burger,Monday,20,No,108
+2026-03-10,Veg Burger,Tuesday,21,Yes,161
+2026-03-11,Margherita Pizza,Wednesday,33,No,68
+2026-03-12,Grilled Cheese Sandwich,Thursday,34,No,112
+2026-03-13,Tomato Basil Soup,Friday,35,No,61
+2026-03-14,Pasta Arrabbiata,Saturday,15,Yes,155
+2026-03-15,Veggie Supreme Pizza,Sunday,40,No,89
+2026-03-16,Pesto Pasta,Monday,28,No,64
+2026-03-17,Pesto Pasta,Tuesday,18,Yes,141
+2026-03-18,Margherita Pizza,Wednesday,35,No,43
+2026-03-19,Cream of Broccoli Soup,Thursday,20,No,88
+2026-03-20,Mac and Cheese,Friday,35,Yes,89
+2026-03-21,Pasta Arrabbiata,Saturday,28,No,145
+2026-03-22,Garden Fresh Salad,Sunday,22,No,108
+2026-03-23,Club Sandwich Veg,Monday,29,No,79
+2026-03-24,Cold Coffee,Tuesday,33,Yes,107
+2026-03-25,Bruschetta,Wednesday,23,No,92
+2026-03-26,Club Sandwich Veg,Thursday,20,Yes,115
+2026-03-27,Fresh Fruit Smoothie,Friday,35,Yes,176
+2026-03-28,Cold Coffee,Saturday,36,No,61
+2026-03-29,Lasagna Primavera,Sunday,20,Yes,163
+2026-03-30,Lemonade,Monday,16,No,84
+2026-03-31,Veggie Supreme Pizza,Tuesday,29,No,119
+2026-04-01,Garden Fresh Salad,Wednesday,26,Yes,181
+2026-04-02,Lasagna Primavera,Thursday,18,Yes,85
+2026-04-03,Bruschetta,Friday,26,Yes,113
+2026-04-04,Club Sandwich Veg,Saturday,36,Yes,162
+2026-04-05,Grilled Vegetable Sandwich,Sunday,21,Yes,231
+2026-04-06,Veg Lasagna,Monday,24,Yes,111
+2026-04-07,Mac and Cheese,Tuesday,18,No,68
+2026-04-08,Iced Tea,Wednesday,29,No,115
+2026-04-09,Nachos with Cheese,Thursday,27,No,104
+2026-04-10,Chocolate Brownie,Friday,29,No,78
+2026-04-11,Nachos with Cheese,Saturday,28,No,161
+2026-04-12,Cheesecake,Sunday,16,No,69
+2026-04-13,Tomato Basil Soup,Monday,19,Yes,109
+2026-04-14,Pancakes,Tuesday,31,Yes,77
+2026-04-15,Lemonade,Wednesday,35,No,93
+2026-04-16,Mushroom Risotto,Thursday,40,Yes,135
+2026-04-17,Pasta Arrabbiata,Friday,39,No,36
+2026-04-18,Bruschetta,Saturday,40,No,92
+2026-04-19,Pasta Alfredo,Sunday,35,No,142
+2026-04-20,Caesar Salad,Monday,19,Yes,112
+2026-04-21,Pesto Pasta,Tuesday,39,Yes,110
+2026-04-22,Mushroom Soup,Wednesday,30,No,82
+2026-04-23,French Fries,Thursday,34,Yes,120
+2026-04-24,Veggie Supreme Pizza,Friday,36,Yes,127
+2026-04-25,Bruschetta,Saturday,26,No,93
+2026-04-26,Waffles,Sunday,32,Yes,161
+2026-04-27,Fresh Fruit Smoothie,Monday,39,No,80
+2026-04-28,Pancakes,Tuesday,38,No,77
+2026-04-29,Nachos with Cheese,Wednesday,36,No,55
+2026-04-30,Greek Salad,Thursday,22,No,47
+2026-05-01,Paneer Burger,Friday,29,Yes,155
+2026-05-02,Cream of Broccoli Soup,Saturday,16,No,118
+2026-05-03,Iced Tea,Sunday,17,Yes,181
+2026-05-04,Veg Risotto,Monday,34,No,44
+2026-05-05,Cheesecake,Tuesday,33,No,114
+2026-05-06,Tiramisu,Wednesday,40,No,77
+2026-05-07,Farmhouse Pizza,Thursday,34,No,73
+2026-05-08,Farmhouse Pizza,Friday,16,No,102
+2026-05-09,Garden Fresh Salad,Saturday,39,Yes,197
+2026-05-10,Paneer Burger,Sunday,26,No,153
+2026-05-11,Veggie Supreme Pizza,Monday,20,No,59
+2026-05-12,French Fries,Tuesday,16,Yes,159
+2026-05-13,Pancakes,Wednesday,38,Yes,164
+2026-05-14,Lasagna Primavera,Thursday,35,Yes,163
+2026-05-15,Bruschetta,Friday,15,No,70
