@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Machine learning model files
+food_model.pkl
+dish_encoder.pkl
+day_encoder.pkl
+
+# Environment files
+.env
+
+# Streamlit
+.streamlit/
